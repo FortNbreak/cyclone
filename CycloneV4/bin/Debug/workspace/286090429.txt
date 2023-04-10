@@ -1,0 +1,1 @@
+{"Wallbang":false,"Aim Key":"MouseButton3","Aimbot":true,"Team Check":true,"Show FOV":true,"Visuals Color":"Rainbow","ESP":true,"Tracers":true,"Aim Part":"Head","Silent Aim":true}

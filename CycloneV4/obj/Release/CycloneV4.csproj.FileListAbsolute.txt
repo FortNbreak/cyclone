@@ -1,0 +1,16 @@
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\bin\Release\CycloneV4.exe.config
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\bin\Release\CycloneV4.exe.manifest
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\bin\Release\CycloneV4.application
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\bin\Release\CycloneV4.exe
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\bin\Release\CycloneV4.pdb
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\bin\Release\FastColoredTextBox.dll
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\bin\Release\WeAreDevs_API.dll
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\obj\Release\CycloneV4.Form1.resources
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\obj\Release\CycloneV4.Properties.Resources.resources
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\obj\Release\CycloneV4.csproj.GenerateResource.cache
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\obj\Release\CycloneV4.csproj.CoreCompileInputs.cache
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\obj\Release\CycloneV4.exe.manifest
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\obj\Release\CycloneV4.application
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\obj\Release\CycloneV4.csproj.CopyComplete
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\obj\Release\CycloneV4.exe
+C:\Users\gavin\source\repos\CycloneV4\CycloneV4\obj\Release\CycloneV4.pdb
