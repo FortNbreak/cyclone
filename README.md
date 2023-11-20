@@ -1,3 +1,6 @@
+# Discontinued
+ye cyclone is now discontinued as 1. WRD does not support UWP. 2. WRD has been rumored to be backdoored
+
 # Description
 A Free, No Key Roblox Executor Powered By WeAreDevsAPI
 
